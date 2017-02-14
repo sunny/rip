@@ -5,7 +5,6 @@ Gem::Specification.new do |s|
   s.version           = Rip::Version
   s.date              = Time.now.strftime('%Y-%m-%d')
   s.summary           = "Take back your $LOAD_PATH"
-  s.homepage          = "http://hellorip.com"
   s.email             = "chris@ozmm.org"
   s.authors           = [ "Chris Wanstrath", "Joshua Peek" ]
   s.has_rdoc          = false
